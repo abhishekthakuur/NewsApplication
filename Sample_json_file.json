@@ -1,0 +1,32 @@
+{
+"status": "ok",
+"totalResults": 69,
+"articles": [
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Maham Javaid, Gerrit De Vynck",
+"title": "How an iPhone that fell from Alaska Airlines plane stayed fully intact - The Washington Post - The Washington Post",
+"description": "A man on a walk discovered a phone from the Alaska Airlines mishap far from where it had been sucked out a missing door. An expert explains how that’s possible.",
+"url": "https://www.washingtonpost.com/technology/2024/01/08/iphone-survives-16000-foot-fall-alaska-airlines/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUEWTMX4IVS5JIJJTBYBEWP3HE_size-normalized.jpg&w=1440",
+"publishedAt": "2024-01-09T04:02:00Z",
+"content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nThe iPhone was lying on the ground, in airplane mode, with its battery half full. The screen, fully intact, showed a $70 receipt for t… [+5185 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CoinDesk"
+},
+"author": "Nikhilesh De",
+"title": "SEC Hustles to Answer Latest Bitcoin ETF Filings: Source - CoinDesk",
+"description": "With a Wednesday deadline looming, the regulator sent comments just hours after would-be issuers filed documents detailing their fees.",
+"url": "https://www.coindesk.com/policy/2024/01/09/sec-hustles-to-answer-latest-bitcoin-etf-filings-source/",
+"urlToImage": "https://www.coindesk.com/resizer/xSmGNq_GXoi78R6sE3GsKTEv2FI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/THI6RJU2YRHFPHLGERM4X2KHPA.jpg",
+"publishedAt": "2024-01-09T03:49:00Z",
+"content": "U.S. Securities and Exchange Commission officials sent comments to a set of prospective issuers of bitcoin exchange-traded funds (ETFs) just hours after the companies filed documents detailing fees f… [+2165 chars]"
+}
+]
+}
